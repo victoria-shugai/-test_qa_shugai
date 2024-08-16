@@ -200,9 +200,13 @@ Cookie должны храниться в зашифрованном виде.  
 |**Project** | https://wortex.by/  |
 | **Environment** | Microsoft (ASUS F553M intel) Chrome (v. 127.0.6533.119)|
 |**Severity**  | Content Cell  |
+|**Priority**  | Content Cell  |
 | **Description:**  | Content Cell  |
 | ***Steps***  | Content Cell  |
 |***Actual result***  | Content Cell  |
 |***Expected result***  | Content Cell  |
 | **Attachment**  | Content Cell  |
 
+<p align="center">
+ <img width="200px" src="img.png" alt="qr"/>
+</p>
