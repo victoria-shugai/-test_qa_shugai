@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c2596753-e735-446b-bef2-37924db31f8f)# План тестирования №1
+# План тестирования №1
 
 **Introduction**: Предоставление суммарной оценки качества продукта
 
